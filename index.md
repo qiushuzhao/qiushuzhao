@@ -9,12 +9,16 @@
  - 期望职位：Java后端工程师
  - 期望薪资：22k
  - 期望城市：南京
+ 
  # 专业技能
+ 
  - 熟练使用spring 、springBoot、springCloud、mysql、mybatis、redis、kafka、Elasticsearch、Hbase；
  - 熟练使用git 、svn、maven 等版本管理工具；
  - 熟练使用jquery、js；
  - java基础扎实；
-# 工作经历
+ 
+ # 工作经历
+ 
 - **2018/05~至今 | 苏宁科技集团有限公司   |  Java中级开发** 
 <br/>主要项目苏宁公益项目esg系统、用户总线策略中台开发、监控组件开发。
 - **2017/02~2018/05	| 福中软件开发有限公司 |   Java中级开发** 
