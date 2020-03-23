@@ -2,12 +2,12 @@
 
  - 邱述照/男/1992 
  - 工作年限：5年
- - 微博：[我的小站-技术](https://weibo.com/u/3080180605) 
+ - 微博：[https://weibo.com/u/3080180605](https://weibo.com/u/3080180605) 
  - 技术博客：[http://www.njlife123.com/](http://www.njlife123.com/)
  - Github：[https://github.com/qiushuzhao](https://github.com/qiushuzhao)
  -  知乎：[https://www.zhihu.com/people/qiu-72-92](https://www.zhihu.com/people/qiu-72-92)
  - 期望职位：Java后端工程师
- - 期望薪资：22k
+ - 期望薪资：面议
  - 期望城市：南京
  # 专业技能
  
