@@ -1,7 +1,7 @@
 # 个人信息
 
  - 邱述照/男/1992 
- - 工作年限：3年
+ - 工作年限：5年
  - 微博：[我的小站-技术](https://weibo.com/u/3080180605) 
  - 技术博客：[http://www.njlife123.com/](http://www.njlife123.com/)
  - Github：[https://github.com/qiushuzhao](https://github.com/qiushuzhao)
